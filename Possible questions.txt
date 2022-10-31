@@ -1,0 +1,20 @@
+Data wrangling
+Otherwise known as data munging, this set of challenges focuses 
+on evaluating the candidate’s ability to programmatically transform 
+raw data into a more usable format. We evaluate data wrangling skills 
+by testing the candidate’s knowledge on data cleansing, transformation, 
+imputating, summarization, normalization, and outlier/anomaly detection.
+
+Data Visualization
+Above all, a great Data Scientist needs to be a great storyteller—
+so data visualization is key. This skills evaluates the candidate’s 
+ability to create data visualizations for the purposes of data exploration
+and storytelling. It tests the candidate’s ability to create data-driven 
+visualizations that clearly convey the story they need to share.
+
+Machine Learning
+This skill refers to the candidate’s ability to leverage machine learning
+to identify and understand meaningful patterns in a dataset. 
+More specifically, HackerRank Projects evaluates candidates’ proficiency 
+in selecting, using, and optimizing machine learning models such as decision trees,
+random forest, k-nearest neighbors, Naive Bayes, and k-means clustering.
